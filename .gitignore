@@ -1,0 +1,10 @@
+# Ignore local junk / secrets — IPA ships via GitHub Releases only
+*.ipa
+*.mobileprovision
+.env
+.DS_Store
+Thumbs.db
+**/*password*
+**/*secret*
+*.log
+source/
