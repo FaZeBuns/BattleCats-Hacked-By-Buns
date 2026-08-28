@@ -37,7 +37,6 @@ File: `BattleCats_Hacked_By_Buns.ipa`
 
 - Play normally until you have **5 cats** — then **UNLOCK ALL** gives you every cat instantly
 - Fresh-account safe: hacks are RAM-canonical with hash-valid saves
-- `source/` contains the Tweak source + build scripts (private repo)
 
 ## Releases
 
